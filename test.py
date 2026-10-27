@@ -1,0 +1,2 @@
+string = ":"
+print(type(string))
